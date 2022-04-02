@@ -4,6 +4,13 @@ title = "ShardingSphere-Proxy"
 weight = 2
 +++
 
+## 获取 ShardingSphere-Proxy
+
+目前 ShardingSphere-Proxy 提供了 3 种获取方式：
+- [二进制发布包](/cn/user-manual/shardingsphere-proxy/startup/bin/)
+- [Docker](/cn/user-manual/shardingsphere-proxy/startup/docker/)
+- [Helm](/cn/user-manual/shardingsphere-proxy/startup/helm/)
+
 ## 规则配置
 
 编辑 `%SHARDINGSPHERE_PROXY_HOME%/conf/config-xxx.yaml`。
